@@ -1,0 +1,18 @@
+# 文件夹
+.gradle/
+.idea/
+build/generated/not_namespaced_r_class_sources
+build/generated/renderscript_source_output_dir
+build/generated/res
+build/generated/source/apt
+build/generated/source/buildConfig
+build/generated/source/kaptKotlin
+build/intermediates
+build/kotlin
+build/outputs
+build/tmp
+
+# 文件
+*.iml
+*.log
+local.properties
